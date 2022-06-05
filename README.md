@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Alan, I'm a software engineering student in my sophomore year.<br />
+I love learning and experimenting with new technologies, specially with Python 🐍 <br />
+and C++ ⚙️.
+
+
 <!--
 **alanjmr21/alanjmr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
