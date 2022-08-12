@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alan, I'm a software engineering student in my sophomore year. I love learning and experimenting with new technologies, especially with Python 🐍 and C++ ⚙️.
+My name is Alan, I'm a software engineering student in my third year. I love learning and experimenting with new technologies, especially with Python 🐍 and C++ ⚙️.
 
 
 <!--
